@@ -1,0 +1,42 @@
+* {
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+    font-size: 3em;
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.basic-info {
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+}
+
+h2 {
+    border: dashed 4px goldenrod;
+    text-align: center;
+}
+
+.committees {
+    display: flex;
+    justify-content: space-between;
+}
+
+.committee--name {
+    font-weight: bolder;
+}
+
+.legislation--header {
+    border: dashed 3px goldenrod;
+}
+
